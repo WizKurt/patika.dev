@@ -5,7 +5,7 @@ Proje 3
 
 root=6 olursa,
 
-      							  6
+      			     6
                            /   \ 
                           5     7
                         /         \
